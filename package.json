@@ -12,9 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/alexey-chernov/goit-nodejs-hw-01.git"
   },
-  "author": "Alexey Chernov",
+  "author": "",
   "license": "ISC",
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/alexey-chernov/goit-nodejs-hw-01/issues"
   },
   "homepage": "https://github.com/alexey-chernov/goit-nodejs-hw-01#readme",
