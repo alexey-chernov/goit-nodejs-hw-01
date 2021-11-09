@@ -1,0 +1,28 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-chernov/goit-nodejs-hw-01.git"
+  },
+  "author": "Alexey Chernov",
+  "license": "ISC",
+   "bugs": {
+    "url": "https://github.com/alexey-chernov/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/alexey-chernov/goit-nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0"
+  }
+}
