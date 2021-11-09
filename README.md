@@ -1,7 +1,7 @@
 # goit-nodejs-hw-01
-## Домашнее задание
+## Домашнє завдання
 
-- :arrow_down:[Получаем и выводим весь список контактов в виде таблицы](https://monosnap.com/file/3Jh1ogBIvduHS5ZwrIFUiKbUO053y8):arrow_down:
-- :arrow_down:[Получаем контакт по id](https://monosnap.com/file/SaLoxqm5PZ2CHEHmac5yz9hgMQlgUQ):arrow_down:
-- :arrow_down:[Добавялем контакт](https://monosnap.com/file/KRjKNI26zZRaD255f2Dgx3CjEyg0tH):arrow_down:
-- :arrow_down:[Удаляем контакт](https://monosnap.com/file/gIJrj5vjSqLjBPPOpGM1ZVilQpV6ih):arrow_down:
+- :arrow_down:[Отримуємо та виводимо весь список контактів у вигляді таблиці ](https://ibb.co/vhCSJjb):arrow_down:
+- :arrow_down:[Отримуємо контакт по id](https://ibb.co/DY7JwGQ):arrow_down:
+- :arrow_down:[Додаємо контакт](https://ibb.co/kyxztcF):arrow_down:
+- :arrow_down:[Видалаємо контакт](https://ibb.co/N3kq7k0):arrow_down:
